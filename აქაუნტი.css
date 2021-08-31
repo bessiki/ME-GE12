@@ -1,0 +1,224 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 548px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 839px 0 -55px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -52px 29px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 294px;
+  height: 294px;
+  background-image: url("images/c5e5b6ea5d6675685b5306d34b3579eaf3d2676516125157f1ab8491a7bb2907db848f31454ae378eefb118f72dd1319249fe32c2a6814ff4ff07e_1280.jpg");
+  background-position: 50% 50%;
+  margin: 119px auto 0 423px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 259px;
+  height: 259px;
+  background-image: url("images/f3ec2f8fc572f05cc391a668c762dd878e97d170621676f7596679118b88e7b10441639249dcb28b56029529f06ad8606491337fd16176f3a55f7d_1280.jpg");
+  background-position: 50% 50%;
+  margin: -277px auto 0 441px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -374px 861px 0 -80px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -170px -63px 0 802px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 323px 283px 13px 456px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 739px;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -46px;
+    margin-right: 47px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 113px;
+    margin-left: 323px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -276px;
+    margin-left: 341px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: -375px;
+    margin-right: 656px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: -139px;
+    margin-right: -50px;
+    margin-left: 689px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 183px;
+    margin-left: 356px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 711px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 577px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -78px;
+    margin-right: 73px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 198px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -273px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -423px;
+    margin-right: 529px;
+    margin-left: -50px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -287px;
+    margin-right: -70px;
+    margin-left: 389px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 468px;
+    margin-right: 73px;
+    margin-left: 246px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 408px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -104px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 204px;
+    height: 204px;
+    margin-top: 208px;
+    margin-left: 168px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 169px;
+    height: 169px;
+    margin-top: -186px;
+    margin-left: 186px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -328px;
+    margin-right: 406px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -397px;
+    margin-right: -82px;
+    margin-left: 206px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-bottom: 25px;
+    margin-left: 139px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 218px;
+    margin-left: -19px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -59px;
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 135px;
+    margin-left: 126px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -185px;
+    margin-left: 144px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -304px;
+    margin-right: 213px;
+    margin-left: -38px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -378px;
+    margin-right: -102px;
+    margin-left: 102px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin: 357px -50px 60px 50px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 18px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 126px auto 60px;
+  padding: 6px 31px 6px 30px;
+}
